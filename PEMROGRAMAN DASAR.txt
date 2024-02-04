@@ -1,0 +1,20 @@
+variable merupakan tempat menyiman sebuah nilai yang bersifatnya tidak tetap atau sementara
+sedangakan konstatnta merupakan  tempat menyimpan nilai yang bersifat tetap dan tidak bisa di rubah
+input dibutuhkan untuk menjalankan proses sedangkan output dibutuhkan untuk menampilkan apa yang sudah di jalankan oleh proses
+decision merupakan proses memerikas suatu nilai atau keadaan tertentu untuk mennetukan pilihan selanjutnya yang akan dikerjakna 
+decision if digunakan untuk memeriksa apakah suatu kondisi bernilai benar dan salah 
+sedangkan switch adalah mekanisme yang menentukan statement mana dikerjakan sesuai isi nilai variable yang diperiksa oleh switch
+looping merupakan suatu mekanisme yang untuk mengulagi pengerjaan satu atau sekelompok perintah  program sebanyak jumlah tertentu atau selama kondisi	 tertentu masih terpenuhi
+for loop merupakan yang dimana pengulangan tersebut sudah kita ketahui akan berapa kali di ulang	
+sedangkan while loop merupakan pengulangan yang dimana kita tidak tau berapa kali pengulangan itu akan di ulang
+
+pointer adalah variable yang digunakan untuk menyimpan alamat memori atau alamat variable lainnya 
+array merupakn tempat menyimpan sejumlah data. 
+fungsi atau percabangan  
+fungsi secara defini merupakan progarm yang berdiri sendiri yang melakukan tugas tertenru 
+ tujuan fungsi 
+1. penyederhanaan  striktur program 
+2. memudahkan  debugging 
+3. reuseable 
+array merupakan sekumlan variable yang memiliki tipe data yang sama dan diidentifikasi dengan menggunakan satu nama saja.
+string merupakan kumpulan dari karakter yang dapat terdiri dari huruf. angka. 

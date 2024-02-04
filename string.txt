@@ -1,0 +1,14 @@
+STRING SEBKUMPULAN KAREKTER YANG TERDIRI DARI HURUF ANGKA ATAU SIMBOL
+bisa gabungan dari semua itu
+contohnya nama kita adalah gabungan dari simbol(spasi) dan huruf  
+ 	sstring tidak menggunaka operasi aritmatika 
+string tidak memiliki batasan berapa byte 
+string merupakkan array on charackter
+string itu tipe ddata karakter yang tidak terpengaruh
+string hanya mengmbil data tanpa spasi
+string bisa digunkana sebagai pointer
+string akan berakhir jika mendapat null(\0)
+secara visual null itu tidak di cetak
+nilai asli null ASCII(0)
+SEDANGKAN  spasi ASCII(32)
+	

@@ -1,0 +1,15 @@
+array merupakn tempat menyimpan sejumlah data. 
+fungsi atau percabangan  
+fungsi secara defini merupakan progarm yang berdiri sendiri yang melakukan tugas tertenru 
+ tujuan fungsi 
+1. penyederhanaan  striktir program 
+2. memudahkan  debugging 
+3. reuseable 
+
+jenis fungsi 
+. fungsi yang mengembalikan mengembalikan nilai 
+. fungsi yang past by vailue
+.  
+dalam pembuatan fungsi 
+main. 
+rebooting cat fixed everything 

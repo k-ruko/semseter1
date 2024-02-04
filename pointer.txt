@@ -1,0 +1,7 @@
+pointer adalah variable yang digunakan untuk menyimpan alamat memori atau alamat variable lainnya 
+operator pointer 
+*, &
+aritmatika pointe
+-
++ 
+learn pointer ssss
